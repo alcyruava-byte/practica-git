@@ -31,12 +31,11 @@ Una página HTML que muestra el mensaje **"hello worl!"** junto a una imagen de 
 
 1. Clona el repositorio:
    ```bash
-   git clone [URL-del-repositorio]
+   git clone [https://github.com/alcyruava-byte/practica-git]
    ```
 2. Abre `index.html` en tu navegador.
 
 
 
-## 👤 Autor
 
-[Tu nombre] — Programa Cubo AI
+
